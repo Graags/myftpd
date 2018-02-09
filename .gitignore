@@ -1,0 +1,9 @@
+*.dll
+*.so
+*.exe
+*.cbp
+*.depend
+*.layout
+*.project
+*.dSYM/
+*.pdf
